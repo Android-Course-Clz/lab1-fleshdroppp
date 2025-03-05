@@ -42,27 +42,27 @@ class DummyProfileRepo {
             commentsCount = 2
         ),
         Post(
-            id = 1,
+            id = 5,
             text = "Первый пост!",
             likesCount = 10,
             commentsCount = 5,
             imageUrl = "https://i.pinimg.com/736x/63/3b/33/633b33407e0a948007ce2e6f81354a40.jpg"
         ),
         Post(
-            id = 2,
+            id = 6,
             text = "Второй пост!",
             likesCount = 7,
             commentsCount = 2
         ),
         Post(
-            id = 3,
+            id = 7,
             text = "В деревне так хорошо",
             likesCount = 7,
             commentsCount = 2,
             imageUrl = "https://i.pinimg.com/736x/0d/f7/ba/0df7ba5af478a06349778b8796b77691.jpg"
         ),
         Post(
-            id = 4,
+            id = 8,
             text = "SAMPLE POST :LASJDKFHNSKDLJFN",
             likesCount = 7,
             commentsCount = 2
