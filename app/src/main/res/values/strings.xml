@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SocialMediaProfile</string>
+    <string name="user_avatar_image">User Avatar Image</string>
+    <string name="user_name">Хуснутдинов Аким</string>
+    <string name="add_friend">Добавить в друзья</string>
+    <string name="message_button">Message Button</string>
+    <string name="friends_text">друзей</string>
+    <string name="post_text">постов</string>
+    <string name="followers_text">подписчиков</string>
+    <string name="post_image">Post Image</string>
+</resources>
